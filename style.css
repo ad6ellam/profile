@@ -60,15 +60,17 @@ p {
   padding: 15px 20px;
   font-weight: lighter;
   opacity: 0.6;
-  display: flex;
+  display: inline-block;
   font-size: 12px;
+  text-decoration: none;
+  text-align: center;
 }
 
 .btn-grey:hover {
   opacity: 1;
   text-decoration: none;
   background-color: 142534;
-  color:red;
+  color:white;
 }
 
 .list-inline > li {
