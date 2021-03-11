@@ -54,7 +54,7 @@ p {
 
 .btn-grey {
   color: 142534;
-  border: 1px solid 142534;
+  border: 4px solid 142534;
   background-color: white;
   border-radius: 50px;
   padding: 15px 20px;
@@ -62,7 +62,8 @@ p {
   opacity: 0.6;
   display: inline-block;
   font-size: 12px;
-  text-decoration: none;
+  text-decoration: none;220696ken
+
   text-align: center;
 }
 
